@@ -12,6 +12,7 @@ function Sidebar() {
     "EXPERIENCE",
     "EDUCATION",
     "SKILLS",
+    "PROJECTS",
     "INTERESTS",
     "CERTIFICATIONS",
   ];
